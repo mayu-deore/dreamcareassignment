@@ -11,7 +11,10 @@
 .screen-three-main-div h3{
     text-align: center;
 }
-
+.screen-three-main-div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 .screen-three-img{
     width: 100%;
     height: 450px;
