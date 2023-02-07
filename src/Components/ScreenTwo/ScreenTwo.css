@@ -1,0 +1,28 @@
+.screen-two-flex-div {
+  display: flex;
+  justify-content: center;
+  /* background-color: #80808040; */
+}
+
+.screen-two-width-div {
+  width: 100%;
+  background-color: #80808040;
+}
+
+.screen-two-main-div {
+  padding: 20px;
+  text-align: center;
+}
+
+.screen-two-div-content-two {
+  display: flex;
+  justify-content: center;
+}
+.screen-two-div-content-two p {
+  border-bottom: 2px solid navy;
+  padding-bottom: 3px;
+}
+.screen-two-div-content h3 {
+  margin: 0;
+}
+

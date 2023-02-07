@@ -13,7 +13,6 @@ const HomeScreen = () => {
             <Navbar/>
             <ScreenOne/>
             <IndistryExpertise/>
-            <ScreenTwo/>
         </div>
       </div>
     </div>
