@@ -1,5 +1,7 @@
 import React from "react";
+import IndistryExpertise from "../../Components/IndistryExpertise/IndistryExpertise";
 import Navbar from "../../Components/Navbar/Navbar";
+import ScreenOne from "../../Components/ScreenOne/ScreenOne";
 import "./HomeScreen.css";
 
 const HomeScreen = () => {
@@ -8,6 +10,8 @@ const HomeScreen = () => {
       <div className="home-screen-width-div">
         <div className="home-screen-main-div">
             <Navbar/>
+            <ScreenOne/>
+            <IndistryExpertise/>
         </div>
       </div>
     </div>

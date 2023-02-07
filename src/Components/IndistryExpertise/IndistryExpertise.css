@@ -1,0 +1,77 @@
+.industry-expertise-flex-div{
+    display: flex;
+    justify-content: center;
+}
+
+.industry-expertise-width-div{
+    width: 100%;
+}
+
+.industry-expertise-main-div{
+    font-size: 22px;
+    color: navy;
+    text-align: center;
+}
+
+.industry-expertise-main-two{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.industry-expertise-card-main-div{
+    background-image: url("../../Assets/cardone.jpg");
+    height: 400px;
+    width: 25%;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.industry-expertise-card-main-div-two{
+    background-image: url("../../Assets/cardtwo.jpg");
+    height: 400px;
+    width: 25%;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.industry-expertise-card-main-div-three{
+    background-image: url("../../Assets/cardthree.jpg");
+    height: 400px;
+    width: 25%;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.industry-expertise-card-main-div-four{
+    background-image: url("../../Assets/cardfour.jpg");
+    height: 400px;
+    width: 25%;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.industry-expertise-card-main-div-sub-one{
+    position: absolute;
+    bottom: 0;
+}
+.industry-expertise-card-main-div-sub-one h3{
+    color: white;
+
+}
+
+.industry-expertise-card-main-div-sub-one p{
+    color: white;
+}
