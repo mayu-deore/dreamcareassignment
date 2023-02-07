@@ -1,0 +1,25 @@
+.nav-bar-flex-div{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-bar-width-div{
+    width: 100%;
+}
+
+.nav-bar-main-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-img-tag{
+height: 35px;
+width: 35px;
+}
+
+.nav-bar-sub-div-two{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}

@@ -1,0 +1,13 @@
+.home-screen-flex-div{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.home-screen-width-div{
+    width: 100%;
+}
+
+.home-screen-main-div{
+    display: block;
+}
