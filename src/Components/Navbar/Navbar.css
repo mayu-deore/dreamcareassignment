@@ -23,3 +23,7 @@ width: 35px;
     align-items: center;
     gap: 20px;
 }
+
+.nav-bar-sub-div-two h3{
+    cursor: pointer;
+}

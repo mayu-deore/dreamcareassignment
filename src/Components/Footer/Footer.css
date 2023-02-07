@@ -1,0 +1,23 @@
+.footer-flex-div{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.footer-width-{
+    width: 100%;
+
+}
+
+.footer-main-div{
+    padding: 30px;
+    text-align: center;
+}
+
+.footer-last-div{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+    padding-top: 40px;
+}
