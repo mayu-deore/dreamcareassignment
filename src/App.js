@@ -1,14 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
-import HomeScreen from './Container/HomeScreen/HomeScreen';
-import HomeScreenTwo from './Container/HomeScreenTwo/HomeScreenTwo';
+import logo from "./logo.svg";
+import "./App.css";
+import HomeScreen from "./Container/HomeScreen/HomeScreen";
 
 function App() {
   return (
-   <>
-    <HomeScreen/>
-    <HomeScreenTwo/>
-   </>
+    <>
+      <div>
+        <HomeScreen />
+      </div>
+    </>
   );
 }
 
