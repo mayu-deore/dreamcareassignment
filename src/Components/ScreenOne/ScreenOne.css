@@ -1,6 +1,7 @@
 .screen-one-flex-div{
     display: flex;
     justify-content: center;
+    padding: 30px;
 }
 
 .screen-one-width-div{
@@ -14,6 +15,11 @@
 
 .screen-one-sub-div-one h3{
     font-size: 40px;
+    margin-left: 40px;
+}
+
+.screen-one-para{
+    margin-left: 40px ;
 }
 
 .screen-one-sub-div-two{
@@ -36,4 +42,5 @@
 
 .screen-one-sub-div-one-two{
     position: relative;
+    padding-left: 181px;
 }

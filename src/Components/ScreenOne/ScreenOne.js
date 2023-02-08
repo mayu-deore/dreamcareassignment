@@ -8,11 +8,11 @@ const ScreenOne = () => {
       <div className="screen-one-width-div">
         <div className="screen-one-main-div">
           <div className="screen-one-sub-div-one">
-            <h3>We enrich the lives of our Customers</h3>
-            <p>
-              Every avid independent filmmaker has dreamed about making that
-              special interest documentary, or short film to show off their
-              creative prowess...
+            <h3>We enrich the <br/> lives of our <br/>Customers</h3>
+            <p className="screen-one-para">
+              Every avid independent filmmaker has <br/>
+              dreamed about making that special interest documentary,<br/>
+              or short film to show off their creative prowess...
             </p>
           </div>
           <div className="screen-one-sub-div-one-two">

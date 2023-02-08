@@ -1,6 +1,7 @@
 .screen-three-flex-div{
     display: flex;
     justify-content: center;
+    padding: 50px;
 }
 
 .screen-three-width-div{
@@ -12,8 +13,14 @@
     text-align: center;
 }
 .screen-three-main-div{
-    padding-top: 30px;
+    /* padding-top: 30px; */
     padding-bottom: 30px;
+}
+
+.screen-heading{
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+    width: 250px;
 }
 .screen-three-img{
     width: 100%;

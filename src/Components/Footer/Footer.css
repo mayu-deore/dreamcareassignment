@@ -2,6 +2,8 @@
     display: flex;
     justify-content: center;
     background-color: black;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .footer-width-{
@@ -12,6 +14,11 @@
 .footer-main-div{
     padding: 30px;
     text-align: center;
+}
+
+.nav-bar-sub-div-two{
+      margin-left: 300px;
+      gap: 30px;
 }
 
 .footer-last-div{

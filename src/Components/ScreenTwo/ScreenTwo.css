@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   /* background-color: #80808040; */
+  padding: 30px;
 }
 
 .screen-two-width-div {
@@ -12,6 +13,11 @@
 .screen-two-main-div {
   padding: 20px;
   text-align: center;
+}
+
+.screen-two-div-content{
+  margin-top: 70px;
+  margin-bottom: 5px;
 }
 
 .screen-two-div-content-two {

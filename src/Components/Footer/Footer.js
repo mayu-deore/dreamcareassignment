@@ -11,12 +11,12 @@ const Footer = () => {
           <div>
             <img src={Logo} className="logo-img-tag" />
           </div>
-          <div className="nav-bar-sub-div-two" style={{ color: "white" }}>
-            <h3>About Us</h3>
-            <h3>My Passporte</h3>
-            <h3>Careers</h3>
-            <h3>Investors</h3>
-            <h3>Contact</h3>
+          <div className="nav-bar-sub-div-two" style={{ color: "white",}}>
+            <p>About Us</p>
+            <p>My Passporte</p>
+            <p>Careers</p>
+            <p>Investors</p>
+            <p>Contact</p>
           </div>
 
           <div className="nav-bar-sub-div-two" style={{ color: "white", justifyContent:"center" }}>

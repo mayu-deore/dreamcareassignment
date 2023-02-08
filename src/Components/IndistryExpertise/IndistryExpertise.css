@@ -1,6 +1,7 @@
 .industry-expertise-flex-div{
     display: flex;
     justify-content: center;
+    padding: 30px;
 }
 
 .industry-expertise-width-div{
@@ -11,6 +12,7 @@
     font-size: 22px;
     color: navy;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .industry-expertise-main-two{
